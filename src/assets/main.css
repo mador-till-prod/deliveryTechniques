@@ -1,0 +1,8 @@
+html {
+  font-size: calc(16px + 1vw);
+}
+
+html, body {
+  margin: 0;
+  height: 100vh;
+}
